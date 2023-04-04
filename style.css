@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #272932;
+}
+
+
+.card-container {
+    font-family: 'DotGothic16', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+    flex-direction: column;
+    width: 80vw;
+    max-width: 500px;
+    align-items: center;
+    gap: 10px;
+    color: white;
+    background-color: #4D7EA8;
+    padding: 20px 0;
+    margin: 200px;
+    border-radius: 10px;
+
+}
+
+#question-container {
+    text-align: center;
+}
+
+#option-container {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    gap: 10px;
+}
+
+#option-container button{
+    border-radius: 10px;
+    font-family: 'DotGothic16', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    background-color: #9E90A2;
+    color: white;
+    border: none;
+}

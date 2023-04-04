@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is the highest mountain in Africa?",
+    "options": ["Mount Kilimanjaro", "Mount Kenya", "Mount Elgon", "Mount Rwenzori"],
+    "answer": "Mount Kilimanjaro"
+  },
+  {
+    "question": "Which planet in our solar system is known as the Red Planet?",
+    "options": ["Venus", "Jupiter", "Mars", "Mercury"],
+    "answer": "Mars"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the United States?",
+    "options": ["France", "Italy", "Spain", "Germany"],
+    "answer": "France"
+  },
+  {
+    "question": "Which river is the longest in the world?",
+    "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+    "answer": "Nile"
+  },
+  {
+    "question": "What is the smallest continent in the world?",
+    "options": ["Africa", "Asia", "Europe", "Australia"],
+    "answer": "Australia"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Cu", "Fe"],
+    "answer": "Au"
+  },
+  {
+    "question": "Which of Shakespeare's plays is the longest?",
+    "options": ["Hamlet", "Macbeth", "Othello", "Richard III"],
+    "answer": "Hamlet"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Brain", "Heart", "Liver", "Skin"],
+    "answer": "Skin"
+  }
+]
